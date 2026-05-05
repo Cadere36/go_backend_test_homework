@@ -1,0 +1,29 @@
+[33mcommit 1634a9dd76f0f728dddff4c7758d5d494d72fd66[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Danil Gaidukov <g4idukovd@yandex.ru>
+Date:   Tue May 5 21:32:45 2026 +0300
+
+    Delete new file
+
+[33mcommit 817dfdc6571278b187cb6beadb01756a4e609a05[m
+Author: Danil Gaidukov <g4idukovd@yandex.ru>
+Date:   Tue May 5 21:31:09 2026 +0300
+
+    Add new file
+
+[33mcommit fa0551b826b8e915ef19858700aa09c82849170f[m
+Author: Danil Gaidukov <g4idukovd@yandex.ru>
+Date:   Tue May 5 21:25:33 2026 +0300
+
+    Add first commit
+
+[33mcommit 01a2fb2dafcd0030c113200fc1a5c576f05c7c54[m
+Author: gentee <akrivonogov@gmail.com>
+Date:   Fri Oct 27 11:30:41 2023 +0500
+
+    Fix GODEV-590
+
+[33mcommit 90c36e3f40bdb7ed7853387f967c04667020639c[m
+Author: Fe-Nik-S <mikifeynman@gmail.com>
+Date:   Wed Sep 13 17:48:14 2023 +0300
+
+    Initial commit
